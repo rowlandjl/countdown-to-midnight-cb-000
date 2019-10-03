@@ -3,5 +3,5 @@
 def countdown(number)
 
   while number > 0
-    puts "#{number}"
+    puts "#{number} SECOND(s)!"
 end
